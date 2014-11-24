@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items dir="image/multimedia/">
+		<item thumb="thumb/thumb_coverpage_wc.jpg" media="large/large_coverpage_wc.jpg" url="http://google1.com.vn" target="_blank"  />
+		<item thumb="thumb/thumb_coverpage_to.jpg" media="large/large_coverpage_to.jpg" url="http://google2.com.vn" target="_blank"  />
+		<item thumb="thumb/thumb_coverpage_mj.jpg" media="large/large_coverpage_mj.jpg" url="http://google3.com.vn" target="_blank" />
+		<item thumb="thumb/thumb_coverpage_sns.jpg" media="large/large_coverpage_sns.jpg" url="http://google3.com.vn" target="_blank" />
+	</items>
+</data>
+
+

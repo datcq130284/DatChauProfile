@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<banner>
+		<item id="BannerTO" url="swf/BannerTO.swf" />
+		<item id="BannerLO" url="swf/BannerLO.swf" />
+		<item id="BannerSDO" url="swf/BannerSDO.swf" />
+		<item id="BannerMJ" url="swf/BannerMJ.swf" />
+	</banner>
+</data>

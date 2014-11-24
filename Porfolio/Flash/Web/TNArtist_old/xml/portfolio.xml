@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items dir="image/portfolio/">
+		<item id="sg" image="sg/logo.png" xml="xml/sg.xml"  />
+		<item id="samsung" image="samsung/logo.png"  xml="xml/samsung.xml" />
+		<item id="mobell" image="mobell/logo.png" xml="xml/mobell.xml" />
+		<item id="vina" image="vina/logo.png"  xml="xml/vina.xml" />
+	</items>
+</data>
+
+

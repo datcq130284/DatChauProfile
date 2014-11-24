@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items dir="image/graphic/">
+		<item thumb="thumb/image1.png" media="large/image1.png" url="http://google1.com.vn" target="_blank"  />
+		<item thumb="thumb/image2.png" media="large/image2.png" url="http://google2.com.vn" target="_blank"  />
+		<item thumb="thumb/image3.png" media="large/image3.png" url="http://google3.com.vn" target="_blank" />
+		<item thumb="thumb/image4.png" media="large/image4.png" url="http://google4.com.vn" target="_blank" />
+	</items>
+</data>
+
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<menu>
+		<item id="Products" url="http://lib.oigee.com/templates/html/livevn/product.html" target="_blank" />
+		<item id="AboutUs" url="http://lib.oigee.com/templates/html/livevn/aboutus.html" target="_blank" />
+		<item id="Community" url="http://lib.oigee.com/templates/html/livevn/community.html" target="_blank" />
+		<item id="Recruiment" url="http://lib.oigee.com/templates/html/livevn/recruiment.html" target="_blank" />
+		<item id="Agents" url="http://lib.oigee.com/templates/html/livevn/agents.html" target="_blank" />
+		<item id="NetGame" url="http://www.livevn.com/" target="_blank" />
+	</menu>
+</data>

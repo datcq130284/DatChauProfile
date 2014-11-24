@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<menu>
+		<item id="Home" url="http://www.google.com.vn" target="_blank" />
+		<item id="ThiDau" url="http://www.google.com.vn?1" target="_blank" />
+		<item id="TheLe" url="http://www.google.com.vn?2" target="_blank" />
+		<item id="DangKy" url="http://www.google.com.vn?3" target="_blank" />
+		<item id="Gifts" url="http://www.google.com.vn?4" target="_blank" />
+	</menu>
+</data>
